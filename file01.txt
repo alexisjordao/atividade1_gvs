@@ -1,1 +1,5 @@
 teste 01
+
+git add file
+git commit -m "comentario"
+git push origin master
